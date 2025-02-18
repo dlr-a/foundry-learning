@@ -1,3 +1,15 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lottery-smart-contract/lib/foundry-devops"]
+	path = lottery-smart-contract/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
+[submodule "lottery-smart-contract/lib/chainlink-brownie-contracts"]
+	path = lottery-smart-contract/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
 [submodule "lottery-smart-contract/lib/forge-std"]
 	path = lottery-smart-contract/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lottery-smart-contract/lib/solmate"]
+	path = lottery-smart-contract/lib/solmate
+	url = https://github.com/transmissions11/solmate
